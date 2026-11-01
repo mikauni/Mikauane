@@ -1,4 +1,4 @@
-# Olá! Eu sou a Mikauane Silva dos Santos 👩‍💻
+# 👩‍💻 Sobre mim
 
 🎓 Estudante de Engenharia de Computação  
 💻 Desenvolvedora em formação  
@@ -23,9 +23,15 @@ Gosto de aprender coisas novas, desenvolver projetos práticos e aprimorar minha
 
 ### 🌐 Site – Academia de Lutas Márcio Vargas
 
-Desenvolvi um site para uma academia de lutas, aplicando conhecimentos de desenvolvimento web e organização de conteúdo digital.
+Desenvolvi um site para uma academia de lutas, aplicando conhecimentos de desenvolvimento web, organização de conteúdo digital e experiência do usuário (UX).
 
 🔗 [Acessar projeto](https://loquacious-yeot-2540d9.netlify.app)
+
+### 🌿 Prévia – Tempeiro da Vida
+
+Desenvolvi uma prévia de um site para uma loja de temperos, explorando conceitos de design, organização de produtos, interface do usuário (UI) e experiência de navegação (UX).
+
+🔗 [Visualizar prévia](https://tempeirodavida.netlify.app)
 
 ## Objetivos
 
